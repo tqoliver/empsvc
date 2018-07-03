@@ -1,0 +1,5 @@
+import:
+- package: github.com/go-sql-driver/mysql
+  version: 749ddf1598b47e3cd909414bda735fe790ef3d30
+- package: github.com/gorilla/mux
+  version: cb4698366aa625048f3b815af6a0dea8aef9280a
